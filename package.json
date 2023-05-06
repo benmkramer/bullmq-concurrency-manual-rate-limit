@@ -1,0 +1,18 @@
+{
+  "name": "bullmq-manual-limit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ben kramer <benmkramer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bullmq": "^3.12.0",
+    "ioredis": "^5.3.2"
+  },
+  "engines": {
+    "node": "18.5.0"
+  }
+}
